@@ -19,9 +19,9 @@ If you still need help with forking a github repo, here are [more resources](htt
 In the terminal, `cd` inside the directory you are going to keep this program's files and work.
 
 ```bash
-git clone https://github.com/<your_github_username>/chicago-ds-120919.git
+git clone https://github.com/<your_github_username>/chicago-ds-012720.git
 cd chicago-ds-120919
-git remote add upstream https://github.com/learn-co-students/chicago-ds-120919.git
+git remote add upstream https://github.com/learn-co-students/chicago-ds-012720.git
 ```
 
 ## Get the changes from the Class' Repo
